@@ -44,7 +44,7 @@
 </head>
 <body>
     <header>
-        <img src="path_to_logo.jpg" alt="شعار روضة ركائز العلم الحديث">
+        <img src="../1صورة%20الغلاف.jpg" alt="شعار روضة ركائز العلم الحديث" height="998" width="2048">
         <h1>مرحبًا بكم في رياض ركائز العلم الحديث!</h1>
     </header>
     <main>
@@ -81,8 +81,8 @@
             <p>البريد الإلكتروني: ryadrkayzallmalhdyth@gmail.com</p>
             <p>ساعات العمل: فترة صباحية + فترة مسائية طول الأسبوع معدا الخميس والجمعة</p>
             <p>تابعونا على وسائل التواصل الاجتماعي:</p>
-            <p>فيسبوك: <a href="link_to_facebook">صفحة الفيس بوك</a></p>
-            <p>تيك توك: <a href="link_to_tiktok">صفحة التيك توك</a></p>
+            <p>فيسبوك: <a href="https://www.facebook.com/rakayizaleilm" target="_blank">صفحة الفيس بوك</a></p>
+            <p>تيك توك: <a href="link_to_tiktok" target="_blank">صفحة التيك توك</a></p>
         </section>
     </main>
     <footer>
@@ -90,3 +90,4 @@
     </footer>
 </body>
 </html>
+
